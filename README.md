@@ -1,4 +1,4 @@
-# Who-s-Paying-the-bill
+# Who-Is-Paying-The-Bill
 A program that tells a group of people who is paying the bill . 
 
 coding challenge from Angela Yu's 100 days of python.

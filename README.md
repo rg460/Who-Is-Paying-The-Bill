@@ -13,8 +13,7 @@ Line 8 splits the string names_string into individual names and puts them inside
 
 Example Input
 Angela, Ben, Jenny, Michael, Chloe
-Note: notice that there is a space between the comma and the next name.
 
 Example Output
 Michael is going to buy the meal today!
-Hint
+
